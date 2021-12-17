@@ -1,0 +1,5 @@
+1. 기본기능 : 완료 ( 시작 페이지 : welcome.jsp )
+2. 추가기능
+ (1) 완료 - product.jsp
+ (2) 완료 - welcome.jsp, copy.tag
+ (3) 완료 - menu.jsp
